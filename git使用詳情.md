@@ -35,3 +35,6 @@ git remote add origin https://github.com/Yau-ShuoWen/Study-Note.git
 - IDE中`文件 → 設置 → 版本控制 → git → Path to Git executable`
 - 填入`D:\install_route\git\Git\bin\git.exe`點擊TEST如果顯示則成功
 
+# 使用SSH
+
+打開git bash 輸入`ls -al ~/.ssh`
