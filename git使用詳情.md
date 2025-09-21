@@ -24,7 +24,7 @@
    git branch -M main       # 把 master 改成 main
    git push -u origin main
    ```
-git remote add origin https://github.com/Yau-ShuoWen/Study-Note.git
+
 ----
 
 # IDE配置Git
@@ -38,3 +38,25 @@ git remote add origin https://github.com/Yau-ShuoWen/Study-Note.git
 # 使用SSH
 
 打開git bash 輸入`ls -al ~/.ssh`
+
+
+# 標記
+
+調錯debug：🐛
+說明：✏️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

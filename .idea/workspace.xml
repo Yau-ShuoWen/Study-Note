@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="9/18">
+      <change afterPath="$PROJECT_DIR$/遊戲/低脂小遊戲" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git使用詳情.md" beforeDir="false" afterPath="$PROJECT_DIR$/git使用詳情.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前後端開發/后端/茶語.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/茶語.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yau-ShuoWen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Yau-ShuoWen/Study-Note.git&quot;,
+    &quot;accountId&quot;: &quot;efb36dfe-c8fc-4a5a-ba5e-ceae6b8b9cfc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2tvzt86xSMWw9OZN93yNOofSZND" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/計算機編程/學習筆記&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\計算機編程\學習筆記\前後端開發\后端" />
+      <recent name="E:\計算機編程\學習筆記\前後端開發\前端" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="" />
+      <created>1741247547418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741247547418</updated>
+      <workItem from="1741247548571" duration="54000" />
+      <workItem from="1741247612237" duration="229000" />
+      <workItem from="1741247972514" duration="4236000" />
+      <workItem from="1741260491776" duration="12000" />
+      <workItem from="1741260510096" duration="24244000" />
+      <workItem from="1741590011399" duration="1808000" />
+      <workItem from="1741597351184" duration="2678000" />
+      <workItem from="1741691616207" duration="551000" />
+      <workItem from="1741831048504" duration="13428000" />
+      <workItem from="1742024698409" duration="59000" />
+      <workItem from="1742028578865" duration="805000" />
+      <workItem from="1742090036822" duration="7000" />
+      <workItem from="1742131322005" duration="13451000" />
+      <workItem from="1742295950850" duration="6128000" />
+      <workItem from="1742429998198" duration="3869000" />
+      <workItem from="1742532109469" duration="1890000" />
+      <workItem from="1742624072378" duration="3005000" />
+      <workItem from="1742627318274" duration="34956000" />
+      <workItem from="1742988753771" duration="3597000" />
+      <workItem from="1743213161140" duration="7929000" />
+      <workItem from="1743302584595" duration="15537000" />
+      <workItem from="1743407044601" duration="6160000" />
+      <workItem from="1743586042397" duration="1939000" />
+      <workItem from="1743646031955" duration="1044000" />
+      <workItem from="1743733919974" duration="17039000" />
+      <workItem from="1743995665949" duration="6877000" />
+      <workItem from="1744792354448" duration="747000" />
+      <workItem from="1746188292688" duration="16032000" />
+      <workItem from="1746356181267" duration="12981000" />
+      <workItem from="1747042591632" duration="710000" />
+      <workItem from="1751265858160" duration="5402000" />
+      <workItem from="1751333997137" duration="24392000" />
+      <workItem from="1751507751766" duration="737000" />
+      <workItem from="1751509286645" duration="2767000" />
+      <workItem from="1751534856536" duration="19277000" />
+      <workItem from="1753013943695" duration="517000" />
+      <workItem from="1753176035290" duration="11540000" />
+      <workItem from="1753513460089" duration="10779000" />
+      <workItem from="1754096716421" duration="607000" />
+      <workItem from="1754185528768" duration="10942000" />
+      <workItem from="1754360552670" duration="17754000" />
+      <workItem from="1754660364527" duration="3208000" />
+      <workItem from="1754838006815" duration="5207000" />
+      <workItem from="1754971297185" duration="22906000" />
+      <workItem from="1755216768276" duration="8698000" />
+      <workItem from="1756172825423" duration="34110000" />
+      <workItem from="1756776478676" duration="4952000" />
+      <workItem from="1757505337073" duration="7416000" />
+      <workItem from="1757902620424" duration="7576000" />
+      <workItem from="1757920489725" duration="80000" />
+      <workItem from="1757920587917" duration="2000" />
+      <workItem from="1757933232596" duration="9157000" />
+      <workItem from="1758000415392" duration="2496000" />
+      <workItem from="1758003497462" duration="1147000" />
+      <workItem from="1758004756024" duration="227000" />
+      <workItem from="1758005002541" duration="357000" />
+      <workItem from="1758020050389" duration="986000" />
+      <workItem from="1758068037031" duration="14576000" />
+      <workItem from="1758158226411" duration="3025000" />
+      <workItem from="1758201623031" duration="1760000" />
+      <workItem from="1758353403252" duration="18485000" />
+    </task>
+    <task id="LOCAL-00001" summary="9/17">
+      <option name="closed" value="true" />
+      <created>1758115271879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758115271880</updated>
+    </task>
+    <task id="LOCAL-00002" summary="9/18">
+      <option name="closed" value="true" />
+      <created>1758156896565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758156896565</updated>
+    </task>
+    <task id="LOCAL-00003" summary="9/18">
+      <option name="closed" value="true" />
+      <created>1758158240798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758158240798</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9/17" />
+    <MESSAGE value="9/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="9/18" />
+  </component>
+</project>
