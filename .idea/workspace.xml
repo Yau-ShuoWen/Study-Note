@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="9/18">
-      <change afterPath="$PROJECT_DIR$/遊戲/低脂小遊戲" afterDir="false" />
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="9/21">
+      <change afterPath="$PROJECT_DIR$/軟件開發/人機交互.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/軟件開發/軟件工程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/git使用詳情.md" beforeDir="false" afterPath="$PROJECT_DIR$/git使用詳情.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前後端開發/后端/茶語.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/茶語.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前後端開發/前端/帷幄.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/前端/帷幄.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前後端開發/后端/資料庫學習資料.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/資料庫.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前後端開發/雜.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/前端/雜.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +60,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\計算機編程\學習筆記\前後端開發\后端" />
+      <recent name="E:\計算機編程\學習筆記\軟件開發" />
       <recent name="E:\計算機編程\學習筆記\前後端開發\前端" />
+      <recent name="E:\計算機編程\學習筆記\前後端開發\后端" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -134,7 +140,7 @@
       <workItem from="1758068037031" duration="14576000" />
       <workItem from="1758158226411" duration="3025000" />
       <workItem from="1758201623031" duration="1760000" />
-      <workItem from="1758353403252" duration="18485000" />
+      <workItem from="1758353403252" duration="31490000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -160,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758158240798</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="9/21">
+      <option name="closed" value="true" />
+      <created>1758460654270</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758460654271</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +194,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="9/17" />
     <MESSAGE value="9/18" />
-    <option name="LAST_COMMIT_MESSAGE" value="9/18" />
+    <MESSAGE value="9/21" />
+    <option name="LAST_COMMIT_MESSAGE" value="9/21" />
   </component>
 </project>
