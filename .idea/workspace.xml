@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="9/21">
-      <change afterPath="$PROJECT_DIR$/軟件開發/人機交互.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/軟件開發/軟件工程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="9/22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git使用詳情.md" beforeDir="false" afterPath="$PROJECT_DIR$/git使用詳情.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前後端開發/前端/帷幄.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/前端/帷幄.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前後端開發/后端/資料庫學習資料.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/資料庫.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前後端開發/雜.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/前端/雜.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/作業系統/靈思系統.md" beforeDir="false" afterPath="$PROJECT_DIR$/作業系統/靈思系統.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前後端開發/前端/帷幄.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/前端/月.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前後端開發/后端/茶語.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/茶語.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前後端開發/后端/資料庫.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/資料庫.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +70,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\26530\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="" />
@@ -140,7 +140,9 @@
       <workItem from="1758068037031" duration="14576000" />
       <workItem from="1758158226411" duration="3025000" />
       <workItem from="1758201623031" duration="1760000" />
-      <workItem from="1758353403252" duration="31490000" />
+      <workItem from="1758353403252" duration="35002000" />
+      <workItem from="1758608979120" duration="7291000" />
+      <workItem from="1758700098068" duration="4585000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -174,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758460654271</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="9/22">
+      <option name="closed" value="true" />
+      <created>1758533098130</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758533098130</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +205,7 @@
     <MESSAGE value="9/17" />
     <MESSAGE value="9/18" />
     <MESSAGE value="9/21" />
-    <option name="LAST_COMMIT_MESSAGE" value="9/21" />
+    <MESSAGE value="9/22" />
+    <option name="LAST_COMMIT_MESSAGE" value="9/22" />
   </component>
 </project>
