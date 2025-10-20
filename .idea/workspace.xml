@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="9/30 測試一下md">
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="10/10">
+      <change afterPath="$PROJECT_DIR$/黑話.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前後端開發/后端/茶語.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/茶語.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git使用詳情.md" beforeDir="false" afterPath="$PROJECT_DIR$/git使用詳情.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前後端開發/后端/遠典.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/遠典.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +50,14 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.配色方案字体&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\計算機編程\學習筆記" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\計算機編程\學習筆記\軟件開發" />
       <recent name="E:\計算機編程\學習筆記\前後端開發\前端" />
@@ -146,7 +151,14 @@
       <workItem from="1759107437231" duration="3701000" />
       <workItem from="1759127163599" duration="2593000" />
       <workItem from="1759199499890" duration="3933000" />
-      <workItem from="1759213996603" duration="11479000" />
+      <workItem from="1759213996603" duration="20882000" />
+      <workItem from="1759996831914" duration="4162000" />
+      <workItem from="1760090809033" duration="4269000" />
+      <workItem from="1760162868834" duration="8064000" />
+      <workItem from="1760274929386" duration="596000" />
+      <workItem from="1760336215977" duration="2637000" />
+      <workItem from="1760926329666" duration="7609000" />
+      <workItem from="1760957983160" duration="3652000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -220,7 +232,31 @@
       <option name="project" value="LOCAL" />
       <updated>1759216386790</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="10/2 看一下能不能补">
+      <option name="closed" value="true" />
+      <created>1759362292351</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759362292351</updated>
+    </task>
+    <task id="LOCAL-00011" summary="10/9">
+      <option name="closed" value="true" />
+      <created>1760008181215</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760008181215</updated>
+    </task>
+    <task id="LOCAL-00012" summary="10/10">
+      <option name="closed" value="true" />
+      <created>1760098261161</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1760098261161</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +282,9 @@
     <MESSAGE value="9/27 我也不知道我要干什么，网络崩了，凑个数" />
     <MESSAGE value="9/27 我也不知道我要干什么，数据没啦，凑个数" />
     <MESSAGE value="9/30 測試一下md" />
-    <option name="LAST_COMMIT_MESSAGE" value="9/30 測試一下md" />
+    <MESSAGE value="10/2 看一下能不能补" />
+    <MESSAGE value="10/9" />
+    <MESSAGE value="10/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/10" />
   </component>
 </project>
