@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="10/21&#10;&#10;多剩少补">
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="10/22&#10;&#10;多剩少补">
+      <change afterPath="$PROJECT_DIR$/資料結構和算法/线性表.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git使用詳情.md" beforeDir="false" afterPath="$PROJECT_DIR$/版本控制/git使用詳情.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/資料結構/排序算法.txt" beforeDir="false" afterPath="$PROJECT_DIR$/資料結構和算法/排序算法.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/資料結構/线性表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/更新服务端流程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/資料結構/资料结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/資料結構和算法/资料结构.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +46,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/計算機編程/學習筆記&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/計算機編程/學習筆記/茶本語.md&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.配色方案字体&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;E:/計算機編程/學習筆記/茶本語.md&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -56,6 +62,7 @@
       <recent name="E:\計算機編程\學習筆記" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\計算機編程\學習筆記\版本控制" />
       <recent name="E:\計算機編程\學習筆記\軟件開發" />
       <recent name="E:\計算機編程\學習筆記\前後端開發\前端" />
       <recent name="E:\計算機編程\學習筆記\前後端開發\后端" />
@@ -157,7 +164,10 @@
       <workItem from="1760926329666" duration="7609000" />
       <workItem from="1760957983160" duration="5292000" />
       <workItem from="1761058073722" duration="1226000" />
-      <workItem from="1761123112410" duration="1422000" />
+      <workItem from="1761123112410" duration="5246000" />
+      <workItem from="1761181388731" duration="2789000" />
+      <workItem from="1761224664382" duration="1623000" />
+      <workItem from="1761272377472" duration="9420000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -279,7 +289,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761058683327</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="10/22&#10;&#10;多剩少补">
+      <option name="closed" value="true" />
+      <created>1761143592136</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1761143592136</updated>
+    </task>
+    <task id="LOCAL-00017" summary="10/22&#10;&#10;多剩少补">
+      <option name="closed" value="true" />
+      <created>1761143602571</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1761143602571</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +336,7 @@
     <MESSAGE value="10/10" />
     <MESSAGE value="10/20&#10;&#10;多剩少补" />
     <MESSAGE value="10/21&#10;&#10;多剩少补" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/21&#10;&#10;多剩少补" />
+    <MESSAGE value="10/22&#10;&#10;多剩少补" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/22&#10;&#10;多剩少补" />
   </component>
 </project>
