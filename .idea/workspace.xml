@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="10/22&#10;&#10;多剩少补">
-      <change afterPath="$PROJECT_DIR$/資料結構和算法/线性表.txt" afterDir="false" />
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="10/28&#10;&#10;多剩少补">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git使用詳情.md" beforeDir="false" afterPath="$PROJECT_DIR$/版本控制/git使用詳情.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/資料結構/排序算法.txt" beforeDir="false" afterPath="$PROJECT_DIR$/資料結構和算法/排序算法.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/資料結構/线性表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/更新服务端流程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/資料結構/资料结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/資料結構和算法/资料结构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前後端開發/更新服务端流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/更新服务端流程.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +164,12 @@
       <workItem from="1761181388731" duration="2789000" />
       <workItem from="1761224664382" duration="1623000" />
       <workItem from="1761272377472" duration="9420000" />
+      <workItem from="1761313733319" duration="4169000" />
+      <workItem from="1761469010795" duration="7124000" />
+      <workItem from="1761548700989" duration="8341000" />
+      <workItem from="1761656282217" duration="135000" />
+      <workItem from="1761656470900" duration="859000" />
+      <workItem from="1761659572928" duration="1756000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -305,7 +307,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761143602571</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="10/24&#10;&#10;多剩少补">
+      <option name="closed" value="true" />
+      <created>1761313746227</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1761313746227</updated>
+    </task>
+    <task id="LOCAL-00019" summary="10/28&#10;&#10;多剩少补">
+      <option name="closed" value="true" />
+      <created>1761659602934</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1761659602934</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,6 +355,8 @@
     <MESSAGE value="10/20&#10;&#10;多剩少补" />
     <MESSAGE value="10/21&#10;&#10;多剩少补" />
     <MESSAGE value="10/22&#10;&#10;多剩少补" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/22&#10;&#10;多剩少补" />
+    <MESSAGE value="10/24&#10;&#10;多剩少补" />
+    <MESSAGE value="10/28&#10;&#10;多剩少补" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/28&#10;&#10;多剩少补" />
   </component>
 </project>
