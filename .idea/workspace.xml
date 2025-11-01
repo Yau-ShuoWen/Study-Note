@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="10/28&#10;&#10;多剩少补">
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="10/29&#10;&#10;多剩少补">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前後端開發/更新服务端流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/更新服务端流程.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +168,9 @@
       <workItem from="1761548700989" duration="8341000" />
       <workItem from="1761656282217" duration="135000" />
       <workItem from="1761656470900" duration="859000" />
-      <workItem from="1761659572928" duration="1756000" />
+      <workItem from="1761659572928" duration="3042000" />
+      <workItem from="1761813080782" duration="9238000" />
+      <workItem from="1761895398542" duration="3061000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -323,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761659602934</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="10/29&#10;&#10;多剩少补">
+      <option name="closed" value="true" />
+      <created>1761745490727</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1761745490727</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,6 +366,7 @@
     <MESSAGE value="10/22&#10;&#10;多剩少补" />
     <MESSAGE value="10/24&#10;&#10;多剩少补" />
     <MESSAGE value="10/28&#10;&#10;多剩少补" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/28&#10;&#10;多剩少补" />
+    <MESSAGE value="10/29&#10;&#10;多剩少补" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/29&#10;&#10;多剩少补" />
   </component>
 </project>
