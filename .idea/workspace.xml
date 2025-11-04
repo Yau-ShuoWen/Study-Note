@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="11/1&#10;&#10;多剩少补">
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="11/3&#10;&#10;多剩少补">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前後端開發/后端/遠典.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/遠典.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +172,7 @@
       <workItem from="1761813080782" duration="9238000" />
       <workItem from="1761895398542" duration="3061000" />
       <workItem from="1762004564844" duration="9061000" />
-      <workItem from="1762135837015" duration="5229000" />
+      <workItem from="1762135837015" duration="15666000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -351,7 +350,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762004616856</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="11/3&#10;&#10;多剩少补">
+      <option name="closed" value="true" />
+      <created>1762180771777</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1762180771777</updated>
+    </task>
+    <task id="LOCAL-00024" summary="11/3&#10;&#10;多剩少补">
+      <option name="closed" value="true" />
+      <created>1762180788790</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1762180788790</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,6 +402,7 @@
     <MESSAGE value="10/28&#10;&#10;多剩少补" />
     <MESSAGE value="10/29&#10;&#10;多剩少补" />
     <MESSAGE value="11/1&#10;&#10;多剩少补" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/1&#10;&#10;多剩少补" />
+    <MESSAGE value="11/3&#10;&#10;多剩少补" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/3&#10;&#10;多剩少补" />
   </component>
 </project>
