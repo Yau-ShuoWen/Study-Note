@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="11/3&#10;&#10;多剩少补">
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="11/4&#10;&#10;多剩少补">
+      <change afterPath="$PROJECT_DIR$/前後端開發/后端/事務消息.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/前後端開發/后端/遠典.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/遠典.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2tvzt86xSMWw9OZN93yNOofSZND" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -173,6 +178,7 @@
       <workItem from="1761895398542" duration="3061000" />
       <workItem from="1762004564844" duration="9061000" />
       <workItem from="1762135837015" duration="15666000" />
+      <workItem from="1762266995558" duration="15166000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -366,7 +372,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762180788790</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="11/4&#10;&#10;多剩少补">
+      <option name="closed" value="true" />
+      <created>1762267010163</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1762267010163</updated>
+    </task>
+    <task id="LOCAL-00026" summary="11/4&#10;&#10;多剩少补">
+      <option name="closed" value="true" />
+      <created>1762267207319</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1762267207319</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,6 +425,7 @@
     <MESSAGE value="10/29&#10;&#10;多剩少补" />
     <MESSAGE value="11/1&#10;&#10;多剩少补" />
     <MESSAGE value="11/3&#10;&#10;多剩少补" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/3&#10;&#10;多剩少补" />
+    <MESSAGE value="11/4&#10;&#10;多剩少补" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/4&#10;&#10;多剩少补" />
   </component>
 </project>
