@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="11/4&#10;&#10;多剩少补">
-      <change afterPath="$PROJECT_DIR$/前後端開發/后端/事務消息.md" afterDir="false" />
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="11/17">
+      <change afterPath="$PROJECT_DIR$/简历/image.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前後端開發/后端/遠典.md" beforeDir="false" afterPath="$PROJECT_DIR$/前後端開發/后端/遠典.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +61,11 @@
       <recent name="E:\計算機編程\學習筆記" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\計算機編程\學習筆記\简历" />
+      <recent name="E:\計算機編程\學習筆記" />
       <recent name="E:\計算機編程\學習筆記\版本控制" />
       <recent name="E:\計算機編程\學習筆記\軟件開發" />
       <recent name="E:\計算機編程\學習筆記\前後端開發\前端" />
-      <recent name="E:\計算機編程\學習筆記\前後端開發\后端" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -178,7 +178,15 @@
       <workItem from="1761895398542" duration="3061000" />
       <workItem from="1762004564844" duration="9061000" />
       <workItem from="1762135837015" duration="15666000" />
-      <workItem from="1762266995558" duration="15166000" />
+      <workItem from="1762266995558" duration="30123000" />
+      <workItem from="1762516394598" duration="2528000" />
+      <workItem from="1762653030761" duration="916000" />
+      <workItem from="1762740460443" duration="2395000" />
+      <workItem from="1762761466239" duration="1384000" />
+      <workItem from="1762774090583" duration="9020000" />
+      <workItem from="1762926418587" duration="8100000" />
+      <workItem from="1763212206905" duration="1895000" />
+      <workItem from="1763363774000" duration="2499000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -388,7 +396,47 @@
       <option name="project" value="LOCAL" />
       <updated>1762267207319</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="正经的笔记">
+      <option name="closed" value="true" />
+      <created>1762436659184</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1762436659184</updated>
+    </task>
+    <task id="LOCAL-00028" summary="结构化的内容">
+      <option name="closed" value="true" />
+      <created>1762436669516</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1762436669516</updated>
+    </task>
+    <task id="LOCAL-00029" summary="结构化的内容">
+      <option name="closed" value="true" />
+      <created>1762696622545</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1762696622545</updated>
+    </task>
+    <task id="LOCAL-00030" summary="11/17">
+      <option name="closed" value="true" />
+      <created>1763387178031</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1763387178031</updated>
+    </task>
+    <task id="LOCAL-00031" summary="11/17">
+      <option name="closed" value="true" />
+      <created>1763387187973</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1763387187973</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,6 +474,9 @@
     <MESSAGE value="11/1&#10;&#10;多剩少补" />
     <MESSAGE value="11/3&#10;&#10;多剩少补" />
     <MESSAGE value="11/4&#10;&#10;多剩少补" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/4&#10;&#10;多剩少补" />
+    <MESSAGE value="正经的笔记" />
+    <MESSAGE value="结构化的内容" />
+    <MESSAGE value="11/17" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/17" />
   </component>
 </project>
