@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="11/18">
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="11/19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +186,7 @@
       <workItem from="1762926418587" duration="8100000" />
       <workItem from="1763212206905" duration="1895000" />
       <workItem from="1763363774000" duration="2499000" />
-      <workItem from="1763473111787" duration="2256000" />
+      <workItem from="1763473111787" duration="3458000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -460,7 +460,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763473162504</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="11/19">
+      <option name="closed" value="true" />
+      <created>1763559681108</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1763559681108</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,6 +510,7 @@
     <MESSAGE value="结构化的内容" />
     <MESSAGE value="11/17" />
     <MESSAGE value="11/18" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/18" />
+    <MESSAGE value="11/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/19" />
   </component>
 </project>
