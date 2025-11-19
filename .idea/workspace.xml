@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="11/17">
-      <change afterPath="$PROJECT_DIR$/简历/image.jpg" afterDir="false" />
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="11/18">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,6 +186,7 @@
       <workItem from="1762926418587" duration="8100000" />
       <workItem from="1763212206905" duration="1895000" />
       <workItem from="1763363774000" duration="2499000" />
+      <workItem from="1763473111787" duration="2256000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -436,7 +436,31 @@
       <option name="project" value="LOCAL" />
       <updated>1763387187973</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="11/18">
+      <option name="closed" value="true" />
+      <created>1763473126735</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1763473126735</updated>
+    </task>
+    <task id="LOCAL-00033" summary="11/18">
+      <option name="closed" value="true" />
+      <created>1763473140305</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1763473140305</updated>
+    </task>
+    <task id="LOCAL-00034" summary="11/18">
+      <option name="closed" value="true" />
+      <created>1763473162504</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1763473162504</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,6 +501,7 @@
     <MESSAGE value="正经的笔记" />
     <MESSAGE value="结构化的内容" />
     <MESSAGE value="11/17" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/17" />
+    <MESSAGE value="11/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/18" />
   </component>
 </project>
