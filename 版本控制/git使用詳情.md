@@ -38,3 +38,7 @@
 # 使用SSH
 
 打開git bash 輸入`ls -al ~/.ssh`
+
+
+提交了但是没有推送时退回
+git reset --soft HEAD~1
