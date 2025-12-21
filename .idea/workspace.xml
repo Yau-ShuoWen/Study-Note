@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="12/14">
+    <list default="true" id="9345f70c-3b3a-4b86-a753-f0112e5240f6" name="更改" comment="12/16">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,6 +202,9 @@
       <workItem from="1765513328797" duration="1093000" />
       <workItem from="1765517275626" duration="11950000" />
       <workItem from="1765719511570" duration="2005000" />
+      <workItem from="1765856969225" duration="1285000" />
+      <workItem from="1766055981862" duration="799000" />
+      <workItem from="1766321771214" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="9/17">
       <option name="closed" value="true" />
@@ -547,7 +550,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765719519517</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="12/16">
+      <option name="closed" value="true" />
+      <created>1765857015575</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1765857015575</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +576,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="9/27 我也不知道我要干什么，网络崩了，凑个数" />
     <MESSAGE value="9/27 我也不知道我要干什么，数据没啦，凑个数" />
     <MESSAGE value="9/30 測試一下md" />
     <MESSAGE value="10/2 看一下能不能补" />
@@ -590,6 +600,7 @@
     <MESSAGE value="11/25" />
     <MESSAGE value="12/06" />
     <MESSAGE value="12/14" />
-    <option name="LAST_COMMIT_MESSAGE" value="12/14" />
+    <MESSAGE value="12/16" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/16" />
   </component>
 </project>
