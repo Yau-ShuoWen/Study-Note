@@ -1,0 +1,105 @@
+
+通过createApp函数创建新的应用实例
+实例对象通过vue构造器创建
+
+数据驱动 MVVM  Model View ViewModel
+用户界面的渐进式框架
+
+
+
+监听watch深度监听deep
+
+
+条件判断v-if v-else v-show
+v-if创建销毁 v-show改css
+
+指令根據用途分類：6
+
+属性、事件、双向绑定指令
+内容、条件、列表渲染指令
+
+1. 属性绑定 v-bind 简写 : 对 class style
+
+2. 事件绑定
+
+事件绑定修饰符
+prevent阻止默认行为
+stop阻止冒泡
+capture以捕获模式吃法时间处理函数
+once只触发一次
+self 只有target是自身的时候触发
+
+3. 双向绑定v-model
+
+阻止默认行为.prevent
+
+
+
+配置对象
+
+data默认是一个函数
+
+
+计算属性定义在computed
+编写自定义函数methods
+
+v-on = @
+
+
+
+
+
+双向绑定修饰符
+number 自动转数值
+trim  首尾空白符号
+lazy  失去交点的吃法，change✓input×
+
+
+变异方法
+push 后加多、返回长度
+pop  后删、返回
+shift  前删 返回
+unshift 前加多、返回长度
+splice  删除添加多个
+sort  转字符串、排序、返回
+reverse 翻转，返回
+
+非变异方法
+concat  副本push
+slice   副本切字符串
+map     流式
+filter  过滤
+
+计算属性 getter setter
+
+
+
+
+
+
+
+送分
+主要按钮 primary
+成功按钮 success
+信息按钮 info
+警告安妮 warning
+危险按钮 danger
+朴素按钮 plain
+圆角按钮 round
+禁用按钮 disabled
+链接按钮 link
+圆形按钮 circle
+
+
+
+
+
+
+
+
+
+
+
+
+
+hash路由带#
