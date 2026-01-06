@@ -1,20 +1,54 @@
-
+SSM = Spring + SpringMVC + Mybatis
 
 spring框架
 
 
 一站式服务，轻量级，开源，不是持久层
+生命诗事务
+
+
 docs是api、libs是jar包和源码、schema包含文件
+
+spring mvc
+后端控制器是handler
+前端控制器是DispatcherServlet
+
+MVC响应方式可以分为页面跳转和数据回写
+
 
 依赖注入DI和控制翻转IoC
 1. 同一个概念
 2. 模块是Core
 
-Spring容器默认的作用于是singleton
+BeanFactory是Spring最基本的接口
+
+Spring容器作用域
+1. 默认的是singleton
+2. prototype
+
+Spring核心容器的组成模块
+1. Beans
+2. Core
+3. Context
+4. SpEL
+
+SpringJDBC
+1. core 核心包
+2. dataSource数据源包
+3. object对象包
+4. support支持包
+
+Bean
+1. 构造方法 无参构造方法
+2. 静态工厂 静态工厂方法
+3. 实例工厂
+
+<typeAliases>
+pojo实体类别名的
 
 
-
-
+事务
+1. public、没有标注的方法继承
 
 
 bean
@@ -24,15 +58,33 @@ bean
 @Autowired注解
 1. 是自动装配不是注入
 
+1.XML装配
+2.注解装配
+3.自动装配
 
-Repository Service Controller都是Component
+@Repository
+@Service
+@Controller
+都是@Component
+
+@Controller + @ResponseBody = RestController
 
 
 
 不属于association ofType
 
+fetchType lazy eager
+
+
 
 <bean>用来实例化对象 <property>元素为类中的属性赋值 <constructor-arg>用于给类的构造方法的参数注入值 <dependency>用于pom.xml文件中引入依赖文件
+
+<bean>中的autowire属性取值包括
+default
+byName
+byType
+constructor
+no
 
 可以在SpringMVC的配置文件配置要扫描的包是<context:component-scan>元素
 
@@ -46,6 +98,14 @@ RESTful
 
 
 请求------------------------------------------
+
+发送请求时负责拦截用户请求的是前端控制器
+
+1. 简单数据绑定
+2. 复杂数据绑定
+
+@RequestParam
+1. 别名
 
 @RequestBody
 1. 可以返回json
@@ -62,6 +122,8 @@ RESTful
 @GetMapping和使用@RequestMapping(method = RequestMethod.GET)效果一样
 
 
+<mvc:mapping>通过path拦截
+
 Ant风格
 1. ?任何单字符
 2. *可以匹配0或任意数量赐福
@@ -77,16 +139,28 @@ mybatis
 1. 和java代码分离
 
 spring+mybatis
-1. 配置数据源 2. 数据库连接信息文件 3.sqlSessionFactory对象 4.DAO包
+1. 配置数据源
+2. 数据库连接信息文件
+3. sqlSessionFactory创建sqlSession对象
+4. DAO包
+
 
 sqlSession返回的是List<T>
+
+<configuration>
+配置文件的根元素
+
 
 <mapper>
 1. namespace属性是唯一的，课接口同名
 2. 是映射文件的根元素
+3. namspace设置为对应实体类的全限定类名
 
 <cache>
 1. flushInterval可以是任何正整数，单位毫秒
+2. readOnlu
+3. size
+
 
 <sql>
 1. 定义课重用的SQL代码
@@ -101,17 +175,43 @@ sqlSession返回的是List<T>
     - NOT
 
 
+<select>
+1. 返回resultType和resultMap质疑
+
+<collection>
+1. 一对多关系的
+
 结果集
 - select resultSetType
 - keyProperty keyColumn useGeneeratedKey
 
 
 
+一级缓存
+1. SqlSession级别的
+2. 修改会清空
+3. 不需要手动开启
+
+二级缓存
+1. Mapper级别
+1. 不是所有
+2. 不会LRU回收
+3. 可读/可写 不共享
+
+
+1. driverClassName
+2. url
+3. username
+4. password
+
+JdbcTemplate
+query()  各种查询
+update() 增删改
+execute() DDL语句
 
 
 嵌套查询
 嵌套结果时候使用嵌套结果映射处理重复的自己
-
 
 ORM框架PO面向对象
 
@@ -125,6 +225,11 @@ ORM框架PO面向对象
 
 AOP
 
+实现方法两种
+1. XML文件
+2. 注解
+
+
 1. Advice 通知增强处理
 2. PointCut 表示切面和连接点的交叉点/切点
 3. Before 前置通知
@@ -132,3 +237,10 @@ AOP
 
 
 HandlerInterceptor
+
+
+
+<environments>子元素
+<environment>
+<dataSource>
+<transactionManager>
