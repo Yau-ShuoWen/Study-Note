@@ -92,14 +92,56 @@ filter  过滤
 
 
 
+过渡组件transition
+命名name
+唯一值key
+
+CSS过渡需要transition属性
+CSS动画需要animation属性
+
+v-enter-from
+v-enter-active
+v-enter-to
+
+v-leave-from
+v-leave-active
+v-leave-to
+
+
+过渡模式 out-in in-out
+
+列表v-for  transition-group
+
+模板样式逻辑template style script
+
+选项式api和组合式api
+
+组合式 setup
+
+
+注册组件：全局注册component main.js 局部注册 compontents
+
+引用的组件写成：标签
+
+
+
+样式冲突：scoped 深度选择器
+
+向下props（静态动态） 向上$emit
 
 
 
 
 
 
+名称标识路由：命名路由
 
+<router-link>
+嵌套 children
+导航push
+默认名称default
 
-
-
+链接 to
 hash路由带#
+
+
