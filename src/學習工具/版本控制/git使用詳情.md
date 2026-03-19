@@ -42,3 +42,12 @@
 
 提交了但是没有推送时退回
 git reset --soft HEAD~1
+
+
+
+git init
+git add .
+git commit -m "第一次提交"
+git branch -M main
+git remote add origin https://github.com/Yau-ShuoWen/Point24.git
+git push -u origin main
