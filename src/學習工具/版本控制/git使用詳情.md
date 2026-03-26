@@ -49,5 +49,5 @@ git init
 git add .
 git commit -m "第一次提交"
 git branch -M main
-git remote add origin https://github.com/Yau-ShuoWen/Point24.git
+git remote add origin git@github.com:Yau-ShuoWen/Point-Manage.git
 git push -u origin main
